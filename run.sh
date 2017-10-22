@@ -1,0 +1,1 @@
+cd ~/.conky && ruby starter.rb
